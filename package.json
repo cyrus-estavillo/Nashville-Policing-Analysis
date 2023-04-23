@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "@googlemaps/js-api-loader": "^1.15.1",
+    "csvtojson": "^2.0.10"
+  },
+  "devDependencies": {
+    "@types/google.maps": "^3.52.6",
+    "@types/node": "^18.15.12"
+  },
+  "name": "clean",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
